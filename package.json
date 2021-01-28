@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/lfsite/g-assist#readme",
   "devDependencies": {
-    "electron": "^7.1.2"
+    "electron": "^9.4.0"
   }
 }
